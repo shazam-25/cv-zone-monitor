@@ -14,9 +14,9 @@ Here is the system in action. The monitoring zone (polygon) changes instantly wh
 | Normal Operation (Safe) | Intrusion Alert! |
 | :---: | :---:|
 | *Light Mode: The zone is clear. Boundary is Cyan.* | *Light Mode: An object (phone) has enterd the zone. Boundary and Bounding Box turn Red.* |
-| *<img src="aseets/light_mode-safe_zone.jpg" width="400">* | *<img src="aseets/light_mode-alert.jpg" width="400">* |
+| *<img src="assets/light_mode-safe_zone.jpg" width="400">* | *<img src="assets/light_mode-alert.jpg" width="400">* |
 | *Dark Mode: The zone is clear. Boundary is Cyan.* | *Dark Mode: An object (phone) has enterd the zone. Boundary and Bounding Box turn Red.* |
-| *<img src="aseets/dark_mode-safe_zone.jpg" width="400">* | *<img src="aseets/dark_mode-alert.jpg" width="400">* |
+| *<img src="assets/dark_mode-safe_zone.jpg" width="400">* | *<img src="assets/dark_mode-alert.jpg" width="400">* |
 
 ---
 
