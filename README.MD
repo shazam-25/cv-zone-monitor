@@ -13,9 +13,9 @@ Here is the system in action. The monitoring zone (polygon) changes instantly wh
 
 | Normal Operation (Safe) | Intrusion Alert! |
 | :---: | :---:|
-| *Light Mode: The zone is clear. Boundary is Cyan.* | *Light Mode: An object (phone) has enterd the zone. Boundary and Bounding Box turn Red.* |
+| *Light Mode: The zone is clear. Boundary is Cyan.* | *Light Mode: An object (phone) has entered the zone. Boundary and Bounding Box turn Red.* |
 | *<img src="assets/light_mode-safe_zone.jpg" width="400">* | *<img src="assets/light_mode-alert.jpg" width="400">* |
-| *Dark Mode: The zone is clear. Boundary is Cyan.* | *Dark Mode: An object (phone) has enterd the zone. Boundary and Bounding Box turn Red.* |
+| *Low Light Mode: The zone is clear. Boundary is Cyan.* | *Low Light Mode: An object (phone) has entered the zone. Boundary and Bounding Box turn Red.* |
 | *<img src="assets/dark_mode-safe_zone.jpg" width="400">* | *<img src="assets/dark_mode-alert.jpg" width="400">* |
 
 ---
@@ -65,5 +65,5 @@ This lightweight monitor is highly adaptable for various security and safety sce
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/shazam-25/cv_zone_monitor.git](https://github.com/shazam-25/cv_zone_monitor.git)
-   cd cv_zone_monitor
+   git clone [https://github.com/shazam-25/cv_zone_monitor.git](https://github.com/shazam-25/cv-zone-monitor.git)
+   cd cv-zone-monitor
